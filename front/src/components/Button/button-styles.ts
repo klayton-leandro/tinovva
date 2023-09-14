@@ -5,7 +5,7 @@ export const Container = styled.button<{ disabled: boolean }>`
   color: ${(props) => (props.disabled ? "#dddcdc" : "#ffff")};
   border: 1px solid ${(props) => (props.disabled ? "#dddcdc" : "#00c8b3")};
   border-radius: 1rem;
-  height: 75px;
+  height: 60px;
   width: 100%;
   &:hover {
     opacity: 70%;
