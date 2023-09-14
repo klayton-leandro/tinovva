@@ -1,0 +1,1 @@
+export const phone = /^\(\d{2,3}\)\s+\d{4,5}\-\d{4}$/
